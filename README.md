@@ -18,7 +18,7 @@ Kurumsal ERP sistemlerinden e-ticaret uygulamalarına, IoT çözümlerinden mobi
 
 Hello! I'm **Veysi Beğde**.
 
-I'm a **Full Stack Software Developer** with over **5 years of professional experience** building enterprise and commercial software solutions.
+I'm a **Full Stack Software Developer** with over **6 years of professional experience** building enterprise and commercial software solutions.
 
 My primary focus is on the **.NET ecosystem**, while also developing modern web applications with **React / Next.js** and cross-platform mobile applications using **React Native**.
 
