@@ -36,8 +36,6 @@ I enjoy designing scalable architectures, developing clean backend services, and
 
 * Enterprise Web Applications
 * E-Commerce Platform
-* Mobile IoT Applications
-* Embedded Device Communication
 
 ---
 
