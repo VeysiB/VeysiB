@@ -153,7 +153,7 @@ Projects:
 ### 🔌 IoT
 
 * Embedded Device Communication
-* MCU Communication Applications
+* PLC Communication Applications
 
 ---
 
