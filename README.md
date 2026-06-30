@@ -182,4 +182,6 @@ Projects:
 
 Feel free to reach out for collaboration, freelance projects, or software development discussions.
 
+# veysibegde@gmail.com  sende me a e-mail
+
 ⭐ Thanks for visiting my GitHub profile!
