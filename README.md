@@ -32,7 +32,7 @@ I enjoy designing scalable architectures, developing clean backend services, and
 
 **Software Developer**
 
-📅 2025 — Present
+📅 01.12.2025 — Present
 
 * Enterprise Web Applications
 * E-Commerce Platform
@@ -43,7 +43,7 @@ I enjoy designing scalable architectures, developing clean backend services, and
 
 **Software Developer**
 
-📅 2022 — 2025
+📅 15.05.2022 — 01.11.2025
 
 Worked on enterprise-scale internal software systems.
 
@@ -65,7 +65,7 @@ Projects:
 
 **Software Developer**
 
-📅 2021 — 2022
+📅 01.07.2021 — 01.05.2022
 
 Projects:
 
